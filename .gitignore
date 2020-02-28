@@ -36,3 +36,9 @@ $RECYCLE.BIN/
 
 # Distribution folder
 dist
+
+# Firebase
+.firebase
+.firebaserc
+firebase.json
+public/

@@ -1,7 +1,7 @@
 {
-  "name": "final-project",
+  "name": "fetch-github-profile",
   "version": "1.0.0",
-  "description": "A JavaScript application that lets you search the Weather",
+  "description": "A JavaScript application that fetch the GitHub info of the user",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
