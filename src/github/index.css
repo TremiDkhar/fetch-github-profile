@@ -1,0 +1,33 @@
+#profile {
+	text-align: center;
+}
+
+#profile-pic {
+	border-radius: 50%;
+}
+
+#stat {
+	margin: 20px;
+}
+
+#stat span {
+	background: #05A985;
+	color: #fff;
+	padding: 8px 15px;
+	border-radius: 100px;
+	margin: 5px;
+}
+
+#view-more a {
+    background: #3f51b5;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 100px;
+    display: block;
+    margin: 25px 0;
+}
+
+#repo-info {
+	cursor: pointer;
+}
