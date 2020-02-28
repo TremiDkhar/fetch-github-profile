@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 
 # Cache
 .cache
+
+# Distribution folder
+dist
